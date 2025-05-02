@@ -1,0 +1,12 @@
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\tokoharu.exe.config
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\tokoharu.exe
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\tokoharu.pdb
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.AssemblyReference.cache
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.LoginForm.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.Properties.Resources.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.GenerateResource.cache
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.CoreCompileInputs.cache
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.exe
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.pdb
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.RegisterForm.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.menu.resources
