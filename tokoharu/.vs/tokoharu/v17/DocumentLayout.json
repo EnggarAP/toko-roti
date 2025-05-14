@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\menu4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\menu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\menu4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,144 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.Designer.cs",
-              "RelativeDocumentMoniker": "tokoharu\\RegisterForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.Designer.cs",
-              "RelativeToolTip": "tokoharu\\RegisterForm.Designer.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAowH4AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "menu4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.Designer.cs",
+              "RelativeDocumentMoniker": "tokoharu\\menu4.Designer.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.Designer.cs",
+              "RelativeToolTip": "tokoharu\\menu4.Designer.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAcwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:33:03.909Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-05-14T19:46:12.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "menu2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu2.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu2.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu2.cs [Design]*",
-              "RelativeToolTip": "tokoharu\\menu2.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T00:45:03.627Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.cs",
-              "RelativeDocumentMoniker": "tokoharu\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.cs [Design]*",
-              "RelativeToolTip": "tokoharu\\LoginForm.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:56:48.512Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.cs",
-              "RelativeDocumentMoniker": "tokoharu\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.cs*",
-              "RelativeToolTip": "tokoharu\\LoginForm.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "order.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.Designer.cs",
+              "RelativeDocumentMoniker": "tokoharu\\order.Designer.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.Designer.cs",
+              "RelativeToolTip": "tokoharu\\order.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:57:14.836Z",
+              "WhenOpened": "2025-05-14T19:44:19.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
+              "RelativeDocumentMoniker": "tokoharu\\order.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
+              "RelativeToolTip": "tokoharu\\order.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:39:33.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "order.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
+              "RelativeDocumentMoniker": "tokoharu\\order.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs [Design]",
+              "RelativeToolTip": "tokoharu\\order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:39:31.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "profileAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\profileAdmin.cs",
+              "RelativeDocumentMoniker": "tokoharu\\profileAdmin.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\profileAdmin.cs",
+              "RelativeToolTip": "tokoharu\\profileAdmin.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIA0wDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:28:27.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "tokoharu\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "tokoharu\\RegisterForm.cs [Design]",
+              "Title": "userAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\userAccount.cs",
+              "RelativeDocumentMoniker": "tokoharu\\userAccount.cs",
+              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\userAccount.cs",
+              "RelativeToolTip": "tokoharu\\userAccount.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:32:21.326Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "tokoharu\\RegisterForm.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\RegisterForm.cs",
-              "RelativeToolTip": "tokoharu\\RegisterForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:32:28.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs [Design]*",
-              "RelativeToolTip": "tokoharu\\menu.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:11:39.588Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "menu3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu3.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu3.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu3.cs [Design]*",
-              "RelativeToolTip": "tokoharu\\menu3.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T01:10:02.718Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "menu4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu4.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.cs [Design]*",
-              "RelativeToolTip": "tokoharu\\menu4.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T01:10:21.202Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu.cs*",
-              "RelativeToolTip": "tokoharu\\menu.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:13:21.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "tokoharu\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\LoginForm.Designer.cs",
-              "RelativeToolTip": "tokoharu\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAQwH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T09:00:40.298Z",
+              "WhenOpened": "2025-05-14T19:28:03.286Z",
               "EditorCaption": ""
             }
           ]

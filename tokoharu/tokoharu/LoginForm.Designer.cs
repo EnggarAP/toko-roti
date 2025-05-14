@@ -10,7 +10,6 @@
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Label lblUsername;
         private System.Windows.Forms.Label lblPassword;
-        private System.Windows.Forms.LinkLabel linkForgot;
 
         protected override void Dispose(bool disposing)
         {
@@ -29,7 +28,7 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.lblUsername = new System.Windows.Forms.Label();
             this.lblPassword = new System.Windows.Forms.Label();
-            this.linkForgot = new System.Windows.Forms.LinkLabel();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtUsername
@@ -102,36 +101,44 @@
             this.lblPassword.Text = "Password";
             this.lblPassword.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // linkForgot
+            // button1
             // 
-            this.linkForgot.LinkColor = System.Drawing.Color.White;
-            this.linkForgot.Location = new System.Drawing.Point(620, 359);
-            this.linkForgot.Name = "linkForgot";
-            this.linkForgot.Size = new System.Drawing.Size(150, 23);
-            this.linkForgot.TabIndex = 6;
-            this.linkForgot.TabStop = true;
-            this.linkForgot.Text = "Forgot password?";
+            this.button1.BackColor = System.Drawing.Color.White;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
+            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
+            this.button1.Location = new System.Drawing.Point(534, 354);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(270, 40);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "REGISTER";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.backRegist);
             // 
             // LoginForm
             // 
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
             this.ClientSize = new System.Drawing.Size(1289, 503);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.lblUsername);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.lblPassword);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.btnLogin);
-            this.Controls.Add(this.linkForgot);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "LoginForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.LoginForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Button button1;
     }
 }

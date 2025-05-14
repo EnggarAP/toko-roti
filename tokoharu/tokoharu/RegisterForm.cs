@@ -8,13 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using MySql.Data;
+using MySql.Data.MySqlClient;
 
 
 namespace tokoharu
 {
     public partial class RegisterForm : Form
     {
-        string connectionString = "Data Source=localhost;Initial Catalog=tokoharu;Integrated Security=True;";
+        string connectionString = "Server=localhost;Database=tokoharu;Uid=root;Pwd=;";
 
         public RegisterForm()
         {
@@ -23,14 +25,12 @@ namespace tokoharu
 
         private void RegisterForm_Load(object sender, EventArgs e)
         {
- 
         }
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text.Trim();
             string password = textBox1.Text;
-            string confirmPassword = textBox2.Text;
 
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
             {
@@ -38,24 +38,18 @@ namespace tokoharu
                 return;
             }
 
-            if (password != confirmPassword)
-            {
-                MessageBox.Show("Password dan konfirmasi tidak sama.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
             try
             {
-                using (SqlConnection conn = new SqlConnection(connectionString))
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
                 {
                     conn.Open();
 
                     // Cek apakah username sudah ada
-                    string checkQuery = "SELECT COUNT(*) FROM Users WHERE Username = @Username";
-                    using (SqlCommand checkCmd = new SqlCommand(checkQuery, conn))
+                    string checkQuery = "SELECT COUNT(*) FROM user WHERE username = @username";
+                    using (MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn))
                     {
-                        checkCmd.Parameters.AddWithValue("@Username", username);
-                        int count = (int)checkCmd.ExecuteScalar();
+                        checkCmd.Parameters.AddWithValue("@username", username);
+                        int count = Convert.ToInt32(checkCmd.ExecuteScalar());
 
                         if (count > 0)
                         {
@@ -65,18 +59,19 @@ namespace tokoharu
                     }
 
                     // Simpan data pengguna
-                    string insertQuery = "INSERT INTO Users (Username, Password) VALUES (@Username, @Password)";
-                    using (SqlCommand cmd = new SqlCommand(insertQuery, conn))
+                    string insertQuery = "INSERT INTO user (username, password) VALUES (@username, @password)";
+                    using (MySqlCommand cmd = new MySqlCommand(insertQuery, conn))
                     {
-                        cmd.Parameters.AddWithValue("@Username", username);
-                        cmd.Parameters.AddWithValue("@Password", password); 
+                        cmd.Parameters.AddWithValue("@username", username);
+                        cmd.Parameters.AddWithValue("@password", password);
 
                         int rowsAffected = cmd.ExecuteNonQuery();
 
                         if (rowsAffected > 0)
                         {
                             MessageBox.Show("Registrasi berhasil!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            this.Close(); // Tutup form setelah registrasi
+                            LoginForm loginForm = new LoginForm();
+                            loginForm.Show();
                         }
                         else
                         {
@@ -89,11 +84,6 @@ namespace tokoharu
             {
                 MessageBox.Show("Terjadi kesalahan: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-        }
-
-        private void lblTitle_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

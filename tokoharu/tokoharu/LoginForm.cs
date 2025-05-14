@@ -1,21 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Drawing.Drawing2D;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SqlClient;
-
+using MySql.Data.MySqlClient;
 
 namespace tokoharu
 {
     public partial class LoginForm : Form
     {
-        string connectionString = "Data Source=localhost;Initial Catalog=tokoharu;Integrated Security=True;";
+        string connectionString = "Server=localhost;Database=tokoharu;Uid=root;Pwd=;";
 
         public LoginForm()
         {
@@ -27,37 +18,73 @@ namespace tokoharu
             string username = txtUsername.Text.Trim();
             string password = txtPassword.Text;
 
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
-                conn.Open();
-                string query = "SELECT COUNT(*) FROM Users WHERE Username = @username AND Password = @password";
-                SqlCommand cmd = new SqlCommand(query, conn);
-                cmd.Parameters.AddWithValue("@username", username);
-                cmd.Parameters.AddWithValue("@password", password);
-
-                int count = (int)cmd.ExecuteScalar();
-
-                if (count > 0)
+                try
                 {
-                    MessageBox.Show("Login berhasil!");
-                    this.Hide();
-                    menu2 menu = new menu2(); // Buka form menu2
-                    menu.ShowDialog();
-                    this.Close();
+                    conn.Open();
+
+                    // Cek login admin
+                    string adminQuery = "SELECT COUNT(*) FROM admin WHERE username = @username AND password = @password";
+                    using (MySqlCommand adminCmd = new MySqlCommand(adminQuery, conn))
+                    {
+                        adminCmd.Parameters.AddWithValue("@username", username);
+                        adminCmd.Parameters.AddWithValue("@password", password);
+
+                        int adminCount = Convert.ToInt32(adminCmd.ExecuteScalar());
+
+                        if (adminCount > 0)
+                        {
+                            MessageBox.Show("Login sebagai Admin berhasil!");
+                            this.Hide();
+                            profileAdmin profile = new profileAdmin();
+                            profile.ShowDialog();
+                            this.Close();
+                            return;
+                        }
+                    }
+
+                    // Jika bukan admin, cek user
+                    string userQuery = "SELECT COUNT(*) FROM user WHERE username = @username AND password = @password";
+                    using (MySqlCommand userCmd = new MySqlCommand(userQuery, conn))
+                    {
+                        userCmd.Parameters.AddWithValue("@username", username);
+                        userCmd.Parameters.AddWithValue("@password", password);
+
+                        int userCount = Convert.ToInt32(userCmd.ExecuteScalar());
+
+                        if (userCount > 0)
+                        {
+                            MessageBox.Show("Login sebagai User berhasil!");
+                            this.Hide();
+                            menu2 menu = new menu2();
+                            menu.ShowDialog();
+                            this.Close();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Username atau password salah.");
+                        }
+                    }
                 }
-                else
+                catch (Exception ex)
                 {
-                    MessageBox.Show("Username atau password salah.");
+                    MessageBox.Show("Kesalahan koneksi: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
 
-        private void linkRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+            // Kosong atau inisialisasi jika diperlukan
+        }
+
+        private void backRegist(object sender, EventArgs e)
         {
             RegisterForm regForm = new RegisterForm();
             regForm.ShowDialog();
+            this.Hide();
         }
+
     }
 }
-
-

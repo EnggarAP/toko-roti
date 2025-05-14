@@ -33,8 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=9.2.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 9.2\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +51,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dbconnection.cs" />
+    <Compile Include="order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profileAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profileAdmin.Designer.cs">
+      <DependentUpon>profileAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userAccount.Designer.cs">
+      <DependentUpon>userAccount.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +108,15 @@
     <Compile Include="RegisterForm.Designer.cs">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profileAdmin.resx">
+      <DependentUpon>profileAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userAccount.resx">
+      <DependentUpon>userAccount.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,6 +160,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\download %2814%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ユーザーアイコンさんメーカー.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist icon for your project.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist_icon_for_your_project-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist_icon_for_your_project-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi-light--clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mdi-light--account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line-md--email-multiple-twotone.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

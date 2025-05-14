@@ -1,22 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace tokoharu
 {
-    internal static class Program
+    static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        // Variabel global untuk menyimpan username pengguna yang login
+        public static string CurrentUsername = "";
+
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            // Mulai dari login
             Application.Run(new LoginForm());
+        }
+
+        // Method untuk membuka form dari manapun
+        public static void ShowForm(Form form)
+        {
+            form.Show();
         }
     }
 }

@@ -55,7 +55,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnLogin = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -121,6 +121,7 @@
             this.button8.TabIndex = 13;
             this.button8.Text = "BELI";
             this.button8.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // label12
             // 
@@ -181,6 +182,7 @@
             this.button7.TabIndex = 13;
             this.button7.Text = "BELI";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // label10
             // 
@@ -241,6 +243,7 @@
             this.button6.TabIndex = 13;
             this.button6.Text = "BELI";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button2_Click);
             // 
             // label8
             // 
@@ -301,6 +304,7 @@
             this.button5.TabIndex = 13;
             this.button5.Text = "BELI";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // label6
             // 
@@ -362,6 +366,7 @@
             this.button4.TabIndex = 13;
             this.button4.Text = "BELI";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label3
             // 
@@ -378,7 +383,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.Controls.Add(this.btnLogin);
+            this.panel1.Controls.Add(this.button9);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.button3);
@@ -387,19 +392,20 @@
             this.panel1.Size = new System.Drawing.Size(1216, 57);
             this.panel1.TabIndex = 31;
             // 
-            // btnLogin
+            // button9
             // 
-            this.btnLogin.BackColor = System.Drawing.Color.Transparent;
-            this.btnLogin.FlatAppearance.BorderSize = 0;
-            this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLogin.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
-            this.btnLogin.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
-            this.btnLogin.Location = new System.Drawing.Point(376, 14);
-            this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(120, 29);
-            this.btnLogin.TabIndex = 6;
-            this.btnLogin.Text = "ROTI ULTAH";
-            this.btnLogin.UseVisualStyleBackColor = false;
+            this.button9.BackColor = System.Drawing.Color.Transparent;
+            this.button9.FlatAppearance.BorderSize = 0;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
+            this.button9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
+            this.button9.Location = new System.Drawing.Point(376, 14);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(120, 29);
+            this.button9.TabIndex = 6;
+            this.button9.Text = "ROTI ULTAH";
+            this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button2
             // 
@@ -414,6 +420,7 @@
             this.button2.TabIndex = 8;
             this.button2.Text = "ROTI KERING";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -428,6 +435,7 @@
             this.button1.TabIndex = 7;
             this.button1.Text = "KUE";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button3
             // 
@@ -442,6 +450,7 @@
             this.button3.TabIndex = 9;
             this.button3.Text = "MINUMAN";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label2
             // 
@@ -535,7 +544,7 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button3;

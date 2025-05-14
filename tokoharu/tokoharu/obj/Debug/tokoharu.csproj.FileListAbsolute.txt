@@ -10,3 +10,16 @@ C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.pdb
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.RegisterForm.resources
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.menu.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.menu2.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.menu3.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.menu4.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\MySql.Data.dll
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\System.Memory.dll
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\System.Buffers.dll
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\bin\Debug\MySql.Data.xml
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.Up2Date
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.order.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.profileAdmin.resources
+C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.userAccount.resources
