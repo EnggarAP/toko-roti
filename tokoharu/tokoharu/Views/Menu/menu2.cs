@@ -80,5 +80,10 @@ namespace tokoharu
             menu4 menu4 = new menu4();
             menu4.Show();
         }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

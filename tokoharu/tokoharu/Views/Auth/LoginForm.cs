@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using tokoharu.Views.Auth;
 
-namespace tokoharu
+namespace tokoharu.Views.Auth
 {
     public partial class LoginForm : Form
     {
@@ -86,5 +87,9 @@ namespace tokoharu
             this.Hide();
         }
 
+        private void LoginForm_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

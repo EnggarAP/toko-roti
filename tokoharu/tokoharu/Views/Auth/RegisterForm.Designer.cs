@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 using System;
 
-namespace tokoharu
+namespace TokoHaru.Views.Auth
 {
     partial class RegisterForm
     {

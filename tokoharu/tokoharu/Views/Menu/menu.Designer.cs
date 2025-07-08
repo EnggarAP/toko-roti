@@ -1,4 +1,4 @@
-﻿namespace tokoharu
+﻿namespace tokoharu.Views.Menu
 {
     partial class menu
     {

@@ -51,23 +51,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Database\dbconnection.cs" />
-    <Compile Include="Views\Dashboard_Admin\order.cs">
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Models\dbconnection.cs" />
+    <Compile Include="Repositories\AdminRepository.cs" />
+    <Compile Include="Repositories\OrderRepository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
+    <Compile Include="Views\Order\order.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Dashboard_Admin\order.Designer.cs">
+    <Compile Include="Views\Order\order.Designer.cs">
       <DependentUpon>order.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Dashboard_Admin\profileAdmin.cs">
+    <Compile Include="Views\Admin\profileAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Dashboard_Admin\profileAdmin.Designer.cs">
+    <Compile Include="Views\Admin\profileAdmin.Designer.cs">
       <DependentUpon>profileAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Dashboard_Admin\userAccount.cs">
+    <Compile Include="Views\Admin\userAccount.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Dashboard_Admin\userAccount.Designer.cs">
+    <Compile Include="Views\Admin\userAccount.Designer.cs">
       <DependentUpon>userAccount.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Auth\LoginForm.cs">
@@ -76,28 +83,28 @@
     <Compile Include="Views\Auth\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Menu\menu.cs">
+    <Compile Include="Views\menu\menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Menu\menu.Designer.cs">
+    <Compile Include="Views\menu\menu.Designer.cs">
       <DependentUpon>menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Menu\menu2.cs">
+    <Compile Include="Views\menu\menu2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Menu\menu2.Designer.cs">
+    <Compile Include="Views\menu\menu2.Designer.cs">
       <DependentUpon>menu2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Menu\menu3.cs">
+    <Compile Include="Views\menu\menu3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Menu\menu3.Designer.cs">
+    <Compile Include="Views\menu\menu3.Designer.cs">
       <DependentUpon>menu3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Menu\menu4.cs">
+    <Compile Include="Views\menu\menu4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\Menu\menu4.Designer.cs">
+    <Compile Include="Views\menu\menu4.Designer.cs">
       <DependentUpon>menu4.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -108,28 +115,28 @@
     <Compile Include="Views\Auth\RegisterForm.Designer.cs">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Views\Dashboard_Admin\order.resx">
+    <EmbeddedResource Include="Views\Order\order.resx">
       <DependentUpon>order.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Dashboard_Admin\profileAdmin.resx">
+    <EmbeddedResource Include="Views\Admin\profileAdmin.resx">
       <DependentUpon>profileAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Dashboard_Admin\userAccount.resx">
+    <EmbeddedResource Include="Views\Admin\userAccount.resx">
       <DependentUpon>userAccount.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Auth\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Menu\menu.resx">
+    <EmbeddedResource Include="Views\menu\menu.resx">
       <DependentUpon>menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Menu\menu2.resx">
+    <EmbeddedResource Include="Views\menu\menu2.resx">
       <DependentUpon>menu2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Menu\menu3.resx">
+    <EmbeddedResource Include="Views\menu\menu3.resx">
       <DependentUpon>menu3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Views\Menu\menu4.resx">
+    <EmbeddedResource Include="Views\menu\menu4.resx">
       <DependentUpon>menu4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -188,8 +195,6 @@
   <ItemGroup>
     <None Include="Resources\line-md--email-multiple-twotone.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

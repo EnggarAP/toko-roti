@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace tokoharu
+namespace tokoharu.Views.Menu
 {
     public partial class menu : Form
     {

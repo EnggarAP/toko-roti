@@ -23,3 +23,18 @@ C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.order.resources
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.profileAdmin.resources
 C:\Users\ideapad GAMING\OneDrive\Documents\Pemrograman Visual\tokoharu\tokoharu\obj\Debug\tokoharu.userAccount.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.AssemblyReference.cache
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\TokoHaru.Views.Order.order.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\TokoHaru.Views.Admin.profileAdmin.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\TokoHaru.Views.Admin.userAccount.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.Views.Auth.LoginForm.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.Views.Menu.menu.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.menu2.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.menu3.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.menu4.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.Properties.Resources.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\TokoHaru.Views.Auth.RegisterForm.resources
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.GenerateResource.cache
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.csproj.CoreCompileInputs.cache
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.exe
+C:\apatu\toko-roti\tokoharu\tokoharu\obj\Debug\tokoharu.pdb

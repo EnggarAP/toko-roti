@@ -1,30 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\",
+  "WorkspaceRootPath": "C:\\apatu\\toko-roti\\tokoharu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\menu4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\menu4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\admin\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\admin\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\menu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\menu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\menu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\menu\\menu2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\users\\ideapad gaming\\onedrive\\documents\\pemrograman visual\\tokoharu\\tokoharu\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\admin\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\admin\\profileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\auth\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\auth\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\auth\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\auth\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\admin\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\admin\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\views\\admin\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\views\\admin\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|c:\\apatu\\toko-roti\\tokoharu\\tokoharu\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DECD8F-A3DF-44D9-9672-66FFFA0D526D}|tokoharu\\tokoharu.csproj|solutionrelative:tokoharu\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +86,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "menu4.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.Designer.cs",
-              "RelativeDocumentMoniker": "tokoharu\\menu4.Designer.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\menu4.Designer.cs",
-              "RelativeToolTip": "tokoharu\\menu4.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "menu2.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu2.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\menu\\menu2.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu2.cs*",
+              "RelativeToolTip": "tokoharu\\Views\\menu\\menu2.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:46:12.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "order.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.Designer.cs",
-              "RelativeDocumentMoniker": "tokoharu\\order.Designer.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.Designer.cs",
-              "RelativeToolTip": "tokoharu\\order.Designer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:44:19.07Z",
+              "WhenOpened": "2025-07-08T21:28:31.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "order.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
-              "RelativeDocumentMoniker": "tokoharu\\order.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
-              "RelativeToolTip": "tokoharu\\order.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAqwJ8AAAAJAAAAAAAAAA==",
+              "Title": "menu2.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu2.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\menu\\menu2.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu2.cs [Design]*",
+              "RelativeToolTip": "tokoharu\\Views\\menu\\menu2.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:39:33.72Z",
+              "WhenOpened": "2025-07-08T21:25:30.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "tokoharu\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:57:59.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "order.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs",
-              "RelativeDocumentMoniker": "tokoharu\\order.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\order.cs [Design]",
-              "RelativeToolTip": "tokoharu\\order.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\menu\\menu.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu.cs",
+              "RelativeToolTip": "tokoharu\\Views\\menu\\menu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:39:31.948Z",
+              "WhenOpened": "2025-07-08T20:52:46.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "profileAdmin.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "RelativeToolTip": "tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profileAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Admin\\profileAdmin.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\profileAdmin.cs [Design]",
+              "RelativeToolTip": "tokoharu\\Views\\Admin\\profileAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:15.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "tokoharu\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:51:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "tokoharu\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:32:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "order.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Order\\order.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Order\\order.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Order\\order.cs [Design]*",
+              "RelativeToolTip": "tokoharu\\Views\\Order\\order.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:30.835Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "profileAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\profileAdmin.cs",
-              "RelativeDocumentMoniker": "tokoharu\\profileAdmin.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\profileAdmin.cs",
-              "RelativeToolTip": "tokoharu\\profileAdmin.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAIA0wDoAAAAnAAAAAAAAAA==",
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\menu\\menu.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\menu\\menu.cs [Design]",
+              "RelativeToolTip": "tokoharu\\Views\\menu\\menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:28:27.13Z",
+              "WhenOpened": "2025-07-08T20:52:41.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\UserController.cs",
+              "RelativeToolTip": "tokoharu\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:58:04.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "userAccount.cs",
-              "DocumentMoniker": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\userAccount.cs",
-              "RelativeDocumentMoniker": "tokoharu\\userAccount.cs",
-              "ToolTip": "C:\\Users\\ideapad GAMING\\OneDrive\\Documents\\Pemrograman Visual\\tokoharu\\tokoharu\\userAccount.cs",
-              "RelativeToolTip": "tokoharu\\userAccount.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "tokoharu\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T19:28:03.286Z",
+              "WhenOpened": "2025-07-08T20:58:06.741Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Order\\order.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Order\\order.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Order\\order.cs*",
+              "RelativeToolTip": "tokoharu\\Views\\Order\\order.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:52:31.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "tokoharu\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:36:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "RelativeToolTip": "tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgv08AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:29:31.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Auth\\RegisterForm.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Auth\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "tokoharu\\Views\\Auth\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:29:29.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "tokoharu\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:37:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "userAccount.cs",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\userAccount.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Admin\\userAccount.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\userAccount.cs",
+              "RelativeToolTip": "tokoharu\\Views\\Admin\\userAccount.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAvwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:36:37.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "userAccount.cs [Design]",
+              "DocumentMoniker": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\userAccount.cs",
+              "RelativeDocumentMoniker": "tokoharu\\Views\\Admin\\userAccount.cs",
+              "ToolTip": "C:\\apatu\\toko-roti\\tokoharu\\tokoharu\\Views\\Admin\\userAccount.cs [Design]",
+              "RelativeToolTip": "tokoharu\\Views\\Admin\\userAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:00:06.202Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

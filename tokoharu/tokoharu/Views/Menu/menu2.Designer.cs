@@ -134,6 +134,7 @@
             this.label12.Size = new System.Drawing.Size(199, 25);
             this.label12.TabIndex = 11;
             this.label12.Text = "BLUE CREAM CHERRY";
+            this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // panel5
             // 

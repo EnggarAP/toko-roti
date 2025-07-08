@@ -1,89 +1,83 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SqlClient;
-using MySql.Data;
-using MySql.Data.MySqlClient;
+using tokoharu.Views.Auth;
+using TokoHaru.Controllers;
+using tokoharu.Models;
 
-
-namespace tokoharu
+namespace TokoHaru.Views.Auth
 {
     public partial class RegisterForm : Form
     {
-        string connectionString = "Server=localhost;Database=tokoharu;Uid=root;Pwd=;";
+        private readonly AuthController _authController;
 
         public RegisterForm()
         {
             InitializeComponent();
-        }
-
-        private void RegisterForm_Load(object sender, EventArgs e)
-        {
+            var dbConnection = new DBConnection();
+            _authController = new AuthController(dbConnection);
         }
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
             string username = txtUsername.Text.Trim();
-            string password = textBox1.Text;
+            string password = lblPassword.Text;
+            string confirmPassword = lblConfirmPassword.Text;
 
+            // Validasi input
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
             {
-                MessageBox.Show("Username dan Password tidak boleh kosong.", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Username dan Password tidak boleh kosong.",
+                    "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (password != confirmPassword)
+            {
+                MessageBox.Show("Password dan konfirmasi password tidak sama.",
+                    "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
             try
             {
-                using (MySqlConnection conn = new MySqlConnection(connectionString))
+                bool registrationResult = _authController.RegisterUser(username, password);
+
+                if (registrationResult)
                 {
-                    conn.Open();
+                    MessageBox.Show("Registrasi berhasil!", "Sukses",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                    // Cek apakah username sudah ada
-                    string checkQuery = "SELECT COUNT(*) FROM user WHERE username = @username";
-                    using (MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn))
-                    {
-                        checkCmd.Parameters.AddWithValue("@username", username);
-                        int count = Convert.ToInt32(checkCmd.ExecuteScalar());
-
-                        if (count > 0)
-                        {
-                            MessageBox.Show("Username sudah digunakan. Pilih username lain.", "Gagal", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            return;
-                        }
-                    }
-
-                    // Simpan data pengguna
-                    string insertQuery = "INSERT INTO user (username, password) VALUES (@username, @password)";
-                    using (MySqlCommand cmd = new MySqlCommand(insertQuery, conn))
-                    {
-                        cmd.Parameters.AddWithValue("@username", username);
-                        cmd.Parameters.AddWithValue("@password", password);
-
-                        int rowsAffected = cmd.ExecuteNonQuery();
-
-                        if (rowsAffected > 0)
-                        {
-                            MessageBox.Show("Registrasi berhasil!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            LoginForm loginForm = new LoginForm();
-                            loginForm.Show();
-                        }
-                        else
-                        {
-                            MessageBox.Show("Registrasi gagal. Coba lagi.", "Gagal", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        }
-                    }
+                    // Pindah ke form login setelah registrasi berhasil
+                    this.Hide();
+                    var loginForm = new LoginForm();
+                    loginForm.Show();
+                    this.Close();
+                }
+                else
+                {
+                    MessageBox.Show("Username sudah digunakan atau registrasi gagal.",
+                        "Gagal", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Terjadi kesalahan: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Terjadi kesalahan: {ex.Message}",
+                    "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void linkLogin_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            // Pindah ke form login
+            this.Hide();
+            var loginForm = new LoginForm();
+            loginForm.Show();
+            this.Close();
+        }
+
+        private void RegisterForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
